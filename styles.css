@@ -1,3 +1,17 @@
 header, main, footer {
-  background-color: aqua;
+  background-color: greenyellow;
+}
+
+header div {
+    display: flex;
+    align-items:center;
+
+    /* For spacing, use rems.*/
+    gap: 1rem;
+}
+
+h1 {
+    /* For font-sizes use ems. */
+    font-size: 3em;
+    font-weight: 700;
 }
