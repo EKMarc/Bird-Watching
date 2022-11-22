@@ -41,3 +41,7 @@ nav a {
     background-color: goldenrod;
     padding: 1rem;
 }
+
+nav a:hove {
+    background-color: darkgoldenrod;
+}
