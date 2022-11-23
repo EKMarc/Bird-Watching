@@ -1,5 +1,5 @@
 header, main, footer {
-  background-color: greenyellow;
+  background-color:cornflowerblue;
 }
 
 header div {
@@ -42,6 +42,10 @@ nav a {
     padding: 1rem;
 }
 
-nav a:hove {
+nav a:hover {
     background-color: darkgoldenrod;
+}
+
+main {
+    margin-top: 1rem 0
 }
