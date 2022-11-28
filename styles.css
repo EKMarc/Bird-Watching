@@ -49,3 +49,6 @@ nav a:hover {
 main {
     margin-top: 1rem 0
 }
+main section {
+    background-color: aqua;
+}
