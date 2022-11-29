@@ -64,9 +64,13 @@ header, main, footer {
   main section:first-child {
     min-width: 60%;
   }
+
+  main section:
   
-  main section:last-child {
-    display: grid;
+  main section:last-child p: :last-child {
+    opacity: 0;
+    z-index: 1;
+  }
   
     grid-template-areas: 
       "header header"
